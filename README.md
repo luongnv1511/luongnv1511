@@ -9,7 +9,7 @@
 </div>
 <div align="center" style="margin: 40px 0">
     <!-- Followers -->
-    <a href="https://github.com/coder7290?tab=followers">
+    <a href="https://github.com/luongnv1511?tab=followers">
         <img width="120px" height="25px" style="border-radius: 3px" src="https://img.shields.io/github/followers/coder7290?style=flat-square">
     </a>
 </div>
