@@ -3,7 +3,7 @@
 
 <!--  <h1 align="center"><img align="center" src="https://media.giphy.com/media/rlUy2kgxiNm7b2l0lG/giphy.gif" style = "width: -webkit-fill-available;"/></h1> -->
 
-<table><tr>
+<table style="margin-top:10px"><tr>
     <td valign="top" width="50%">
         <div align="center">
            <h6> <b> Full Stack </b> </h6>
