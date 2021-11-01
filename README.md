@@ -10,7 +10,6 @@
         <div align="center">  
          <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
           <img style="margin: 10px" alt="Typescript"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/typescript/typescript.png" />
-          <img style="margin: 10px" alt="Python"height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/python/python.png" />
           <img style="margin: 10px" alt="React" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
             <img style="margin: 10px" alt="Angular" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/angular/angular.png" />
             <img style="margin: 10px" alt="Vue" height="50" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/vue/vue.png" />
