@@ -6,7 +6,7 @@
 <table style="margin-top:10px !important;"><tr>
     <td valign="top" width="50%">
         <div align="center">
-           <h6> <b> Full Stack </b> </h6>
+           <h6> <b> Full Stack Developer </b> </h6>
         </div>
         <div align="center">  
          <img style="margin: 10px" alt="JavaScript" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
