@@ -18,7 +18,7 @@
             <img style="margin: 10px" alt="Node.js" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
             <img style="margin: 10px" alt="GraphQL" height="50" src="https://raw.githubusercontent.com/rohan-varma/rohan-blog/gh-pages/images/graphql.png" /> 
             <img style="margin: 10px" alt="SQL" height="50" src="https://www.zeluslugi.ru/upload/news/terms20191115-1.png" />
-            <img style="margin: 10px" alt="MongoDB" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97Lukp0KTUkOQ-RguhJc2DcCju7x8XI-XvLAzW1mLJisV4wa1_-mslDnB52bswH2RUss&usqp=CAU" />
+            <img style="margin: 10px" alt="MongoDB" height="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWp7pd1Qt0VYxUZY5tqPMemwjZN5DVMFkLWQ&usqp=CAU" />
         </div></td><td valign="top" width="50%">
         </div></td><td valign="top" width="50%">
         <div align="center">
