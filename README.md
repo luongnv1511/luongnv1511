@@ -27,7 +27,7 @@
         <div align="center"> 
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1024px-Windows_logo_-_2012.svg.png" alt="Windows" height="50" /> 
-            <img style="margin: 10px" src="https://www.clipartmax.com/png/middle/146-1469802_logo-logo-docker.png" alt="Docker" height="50" />
+            <img style="margin: 10px" src="https://banner2.cleanpng.com/20180527/bhr/kisspng-docker-github-node-js-mongodb-computer-software-5b0a34af5cf459.9926378815273955033808.jpg" alt="Docker" height="50" />
             <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" alt="Kubernetes" height="50" />
             <img style="margin: 10px" alt="VMware" height="50" src="https://upload.wikimedia.org/wikipedia/commons/3/34/VMware_Workstation_11.0_icon.png" />
             <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />
